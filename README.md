@@ -30,4 +30,4 @@
     [3,5,7|8,2,9,4,15,6] <br/>
      [3,5,7,8|2,9,4,15,6] <br/>
      
-  [patika.dev](www.patika.dev)
+  [patika.dev](https://www.patika.dev)
